@@ -11,10 +11,3 @@
 | Metacademy dataset | https://figshare.com/articles/dataset/Metacademy-prereq-pairs-transoformed-to-wiki_csv/7799774 |
 
 
-
-
-# Datasets for Learning Causal Effects
-| Name | Website |
-| :----- | :---- |
-| awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
-

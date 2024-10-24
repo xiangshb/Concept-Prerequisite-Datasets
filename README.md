@@ -1,7 +1,8 @@
 # Concept Prerequisite Datasets
 | Name | Website |
 | :----- | :---- |
-| OntoMath$^\text{Edu}$ |  |
+| OntoMathEdu | https://github.com/CLLKazan/OntoMathEdu |
+| OntoMathPro | https://github.com/CLLKazan/OntoMathPro |
 | CausalEdu | https://github.com/Eedi/CausalEdu |
 | AL-CPL Dataset | https://github.com/harrylclc/AL-CPL-dataset|
 | CHEB-dataset | https://github.com/dayouzi/CHEB |

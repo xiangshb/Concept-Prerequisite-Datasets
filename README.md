@@ -12,5 +12,6 @@
 
 # Datasets for Learning Causal Effects
 | Name | Website |
+| :----- | :---- |
 | awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
 

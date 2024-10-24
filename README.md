@@ -8,3 +8,9 @@
 | CHEB-dataset | https://github.com/dayouzi/CHEB |
 | awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
 | MOOC Dataset | https://github.com/suderoy/PREREQ-IAAI-19/tree/master/datasets |
+
+
+# Datasets for Learning Causal Effects
+| Name | Website |
+| awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
+

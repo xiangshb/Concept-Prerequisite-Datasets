@@ -7,7 +7,6 @@
 | AL-CPL Dataset | https://github.com/harrylclc/AL-CPL-dataset|
 | CHEB-dataset | https://github.com/dayouzi/CHEB |
 | CMEB-dataset | https://github.com/dayouzi/CMEB |
-| awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
 | NPTEL MOOC Dataset | https://github.com/suderoy/PREREQ-IAAI-19/tree/master/datasets |
 
 

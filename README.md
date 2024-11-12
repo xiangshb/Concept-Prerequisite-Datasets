@@ -5,6 +5,7 @@
 | OntoMathPro | https://github.com/CLLKazan/OntoMathPro |
 | CausalEdu | https://github.com/Eedi/CausalEdu |
 | LectureBank | https://github.com/Yale-LILY/LectureBank |
+| LPMDataset | https://github.com/dondongwon/LPMDataset |
 | AL-CPL Dataset | https://github.com/harrylclc/AL-CPL-dataset|
 | CHEB-dataset | https://github.com/dayouzi/CHEB |
 | CMEB-dataset | https://github.com/dayouzi/CMEB |
